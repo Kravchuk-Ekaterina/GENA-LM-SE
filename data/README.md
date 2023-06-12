@@ -1,1 +1,1 @@
-data for GENA-LM fine-tuning used from [DeepSE](https://github.com/QiaoyingJi/DeepSE)
+data for GENA-LM fine-tuning used from [DeepSE](https://github.com/QiaoyingJi/DeepSE). You can download the files here https://drive.google.com/drive/folders/1h9s4HRJqFxzK0YICBIQPJ-h7i24H4-jb?usp=sharing
